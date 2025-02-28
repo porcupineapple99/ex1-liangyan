@@ -2,7 +2,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-def generate_checkerboard(size=64, num_squares=8):
+def generate_checkerboard(size=64, num_squares=10):
     """
     Generates a checkerboard pattern image of size (size x size).
     """
